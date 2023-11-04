@@ -1,0 +1,143 @@
+head{
+    font-size:medium;
+}
+
+body{
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    background-position: center;
+    background-size: cover ;
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+#box1{
+    
+    width: 10px;
+    height: 10px;
+    background: #2D2727;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    scroll-snap-type: y mandatory; 
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+section{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    scroll-snap-align: start;
+}
+
+
+
+.one{
+    border:none;
+    background-image: url(Picture/Window\ Watching\ Universe\ Red\ Planets\ 4K\ Wallpaper-Original.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    background-position: center;
+    background-size: cover ;
+    
+}
+
+.two{
+    
+    background-color: #000010 ;
+    font-size: 50px;
+    
+    
+}
+
+.three{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.four{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.five{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.six{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.seven{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.eight{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.nine{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+.ten{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    
+}
+.eleven{
+    padding-top: 40px;
+    font-size: 30px;
+    background-color: #000015 ;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    
+}

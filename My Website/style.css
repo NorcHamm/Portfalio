@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(206, 233, 255);
+}
+#P1{
+    color:mediumvioletred;
+}
+#P2{
+    color:crimson;
+}
+#P3{
+    color:mediumvioletred;
+    font-size: 100px;
+}
+#P4{
+    color:coral;
+}
+#P5{
+    color:mediumvioletred;
+}
+
+#Hyperlink{
+    font-size: 150px;
+}
